@@ -16,24 +16,24 @@ adicioná-los ao carrinho e fazer o checkout através da própria aplicação do
 
 ## Previews
 **Home:** Listagem de produtos
-<img src="https://github.com/CleiltonRocha/ignite-shop/blob/main/.github/preview-1.png" width="1280px" height="460px" />
+<img src="https://github.com/CleiltonRocha/ignite-shop/blob/main/.github/preview-1.png" width="1280px" height="420px" />
 
 <br /><br /><br />
 Listagem de produtos que foram adicionados ao carrinho
-<img src="https://github.com/CleiltonRocha/ignite-shop/blob/main/.github/preview-2.png" width="1280px" height="460px" />
+<img src="https://github.com/CleiltonRocha/ignite-shop/blob/main/.github/preview-2.png" width="1280px" height="420px" />
 
 <br /><br /><br />
 Checkout dos produtos do carrinho através da aplicação do Stripe
-<img src="https://github.com/CleiltonRocha/ignite-shop/blob/main/.github/preview-4.png" width="1280px" height="460px" />
+<img src="https://github.com/CleiltonRocha/ignite-shop/blob/main/.github/preview-4.png" width="1280px" height="420px" />
 
 
 <br /><br /><br />
 Detalhes do Produto
-<img src="https://github.com/CleiltonRocha/ignite-shop/blob/main/.github/preview-3.png" width="1280px" height="460px" />
+<img src="https://github.com/CleiltonRocha/ignite-shop/blob/main/.github/preview-3.png" width="1280px" height="420px" />
 
 <br /><br /><br />
 Página de Sucesso
-<img src="https://github.com/CleiltonRocha/ignite-shop/blob/main/.github/preview-5.png" width="1280px" height="460px" />
+<img src="https://github.com/CleiltonRocha/ignite-shop/blob/main/.github/preview-5.png" width="1280px" height="420px" />
 
 
 
