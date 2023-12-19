@@ -1,34 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Ignite Shop 👕
 
-## Getting Started
+O Ignite Shop é uma aplicação que lista os produtos cadastrados no Stripe, e nele é possível ver detalhes do produto, 
+adicioná-los ao carrinho e fazer o checkout através da própria aplicação do Stripe.
 
-First, run the development server:
+## Tecnologias
+ - NextJS ✅
+ - Stitches ✅
+ - RadixUI ✅
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Funcionalidades
+ - Listagem de Produtos através da API do Stripe
+ - Adição de produtos no carrinho
+ - Visualização de detalhes dos produtos
+ - Checkout através da aplicação do Stripe
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Previews
+**Home:** Listagem de produtos
+<img src="https://github.com/CleiltonRocha/ignite-shop/blob/main/.github/preview-1.png" width="1280px" height="480px" />
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<br /><br /><br />
+Listagem de produtos que foram adicionados ao carrinho
+<img src="https://github.com/CleiltonRocha/ignite-shop/blob/main/.github/preview-2.png" width="1280px" height="480px" />
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<br /><br /><br />
+Checkout dos produtos do carrinho através da aplicação do Stripe
+<img src="https://github.com/CleiltonRocha/ignite-shop/blob/main/.github/preview-4.png" width="1280px" height="480px" />
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+<br /><br /><br />
+Detalhes do Produto
+<img src="https://github.com/CleiltonRocha/ignite-shop/blob/main/.github/preview-3.png" width="1280px" height="480px" />
 
-To learn more about Next.js, take a look at the following resources:
+<br /><br /><br />
+Página de Sucesso
+<img src="https://github.com/CleiltonRocha/ignite-shop/blob/main/.github/preview-5.png" width="1280px" height="480px" />
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
